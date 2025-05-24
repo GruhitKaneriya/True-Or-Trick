@@ -38,8 +38,7 @@ As True or Trick is currently under patent filing, the full source code cannot b
 For collaborations, demo requests, or more technical details (under NDA if required), feel free to reach out:
 
 Gruhit Kaneriya
-Email: [your-email@example.com]
-LinkedIn: linkedin.com/in/gruhit-kaneriya
+Email: gk9009@srmist.edu.in
 
 🚀 Future Scope
 Expansion into audio-based deepfake detection.
